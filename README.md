@@ -7,6 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About Project
+
+Projet individuel from scratch de 1 semaine, l'objectif était de créer un site de petites annonces similaire au célèbre Leboncoin. Il devait être le plus ressemblant possible en termes de fonctionnalités et intégrée une messagerie instantanée. Ce projet à été réalisé avec VueJs, Blade et Laravel.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
